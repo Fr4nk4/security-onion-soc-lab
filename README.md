@@ -20,7 +20,7 @@ The lab simulates a small enterprise environment consisting of attacker, victim,
 ## Repository Structure
 
 ```text
-snort-ips-lab/
+security-onion-soc-lab/
 │
 ├── img/
 │   └── topology.png 
