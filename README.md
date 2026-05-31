@@ -24,7 +24,9 @@ security-onion-soc-lab/
 │
 ├── img/
 │   └── topology.png 
+│
 ├── Group7_Report.pdf 
+│
 └── README.md
 
 ```
